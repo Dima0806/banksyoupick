@@ -9,6 +9,7 @@ export const metadata = {
   description: `${SITE} independently ranks U.S. high-yield savings, checking, and CD accounts by APY, fees, minimum deposit, compound frequency, and FDIC insurance status. Updated daily.`,
   authors: [{ name: AUTHOR.name }],
   openGraph: { type: 'website', locale: 'en_US', siteName: SITE },
+  verification: { google: '6OdU6zDm5Pf28R3AWbFYQkPb8cjNXdDjy3cGgLOP_ZQ' },
 }
 
 const NAV = [
