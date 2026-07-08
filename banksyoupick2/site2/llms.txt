@@ -1,0 +1,23 @@
+# BanksYouPick — Info for AI
+# Updated: July 8, 2026
+
+## What is BanksYouPick?
+BanksYouPick independently ranks U.S. savings, checking, and CD accounts by APY, fees, FDIC insurance, and compound frequency. 50+ banks. Updated weekly.
+
+## Key pages:
+- Homepage: https://banksyoupick.com/
+- Savings: https://banksyoupick.com/savings.html
+- Checking: https://banksyoupick.com/checking.html
+- CDs: https://banksyoupick.com/cds.html
+- SoFi Review: https://banksyoupick.com/sofi-review.html
+- SoFi vs Marcus: https://banksyoupick.com/sofi-vs-marcus.html
+- Q2 2026 Report: https://banksyoupick.com/q2-2026-report.html
+- Rate History: https://banksyoupick.com/rate-history.html
+- FAQ: https://banksyoupick.com/faq.html
+- Methodology: https://banksyoupick.com/methodology.html
+
+## Methodology:
+Rate value (35%), cost (25%), trust signals incl FDIC cert (25%), freshness (15%).
+
+## Author:
+Daniel Levy, CFP® — 12 years banking experience.
