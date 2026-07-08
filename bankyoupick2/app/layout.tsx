@@ -30,7 +30,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       </head>
       <body>
         <header><div className="w">
-          <a href="/" className="logo"><img src="/logoBanksYouPick.png" alt="BanksYouPick" style={{height:'70px'}} /></a>
+          <a href="/" className="logo"><img src="/logoBanksYouPick.png" alt="BanksYouPick" style={{height:'100px'}} /></a>
           <nav>{NAV.map(n => <a key={n.href} href={n.href}>{n.label}</a>)}</nav>
         </div></header>
         <main>{children}</main>
